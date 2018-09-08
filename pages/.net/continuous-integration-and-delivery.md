@@ -1,3 +1,10 @@
+---
+layout: inner
+title: Continuous Integration vs. Continuous Delivery vs. Continuous Deployment
+description:
+group: .net
+---
+
 # Continuous Integration vs. Continuous Delivery vs. Continuous Deployment
 
 - **Continuous Integration** is an automated process that integrates source code changes and merges all developer working copies into a shared mainline several times a day. The feedback loop is part of this process.

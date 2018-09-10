@@ -4,8 +4,11 @@
 
 @charset "utf-8";
 
-// Imports
+// Load components
 @import "variables";
 @import "base";
 @import "sidebar";
+@import "footer";
+
+// Load docs dependencies
 @import "syntax";

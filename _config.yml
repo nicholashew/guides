@@ -10,6 +10,7 @@ tagline:             .
 url:                 https://nicholashew.github.io/guides/
 
 plugins:
+  - jekyll-coffeescript
   - jekyll-redirect-from
   - jekyll-sitemap
   - jekyll-toc

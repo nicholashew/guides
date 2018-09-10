@@ -8,7 +8,6 @@ permalink:           pretty
 title:               Guides
 tagline:             .
 url:                 https://nicholashew.github.io/guides/
-baseurl:             ""
 
 plugins:
   - jekyll-redirect-from

@@ -16,6 +16,7 @@ plugins:
 
 # Jekyll sass/scss minification.
 sass:
+  sass_dir:         _scss
   style:            compressed
 
 toc:

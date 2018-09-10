@@ -1,13 +1,22 @@
-# Syntax highlighting
-highlighter:         rouge
+# Dependencies
+markdown:       kramdown
+highlighter:    rouge
+
+kramdown:
+  auto_ids:     true
 
 # Permalinks
 permalink:           pretty
 
 # Setup
 title:               Guides
+description:         "My github pages"
 tagline:             .
 url:                 https://nicholashew.github.io/guides/
+authors:            "nicholashew@users.noreply.github.com"
+
+# Custom variables
+repo:                 "https://github.com/nicholashew/guides"
 
 plugins:
   - jekyll-coffeescript

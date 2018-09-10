@@ -1,0 +1,9 @@
+// Local docs variables
+$site-purple:        #563d7c !default;
+$site-purple-bright: lighten(saturate($site-purple, 5%), 15%) !default;
+$site-purple-light:  lighten(saturate($site-purple, 5%), 45%) !default;
+$site-dark:          #2a2730 !default;
+$site-download:      #ffe484 !default;
+$site-info:          #5bc0de !default;
+$site-warning:       #f0ad4e !default;
+$site-danger:        #d9534f !default;

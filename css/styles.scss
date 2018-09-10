@@ -1,7 +1,10 @@
 ---
-# Front matter comment to ensure Jekyll properly reads file.
+# Front matter for jekyll sass (the dashes are enough)
 ---
 
+@charset "utf-8";
+
 // Imports
+@import "variables";
 @import "base";
 @import "syntax";

@@ -3,3 +3,8 @@
     - title: Overview
     - title: Sample 1
     - title: Sample 2
+- title: Foo
+  pages:
+    - title: Bar
+    - title: Bar 1
+    - title: Bar 2

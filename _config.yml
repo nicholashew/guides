@@ -14,12 +14,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-toc
 
-# Assets
-#
-# We specify the directory for Jekyll so we can use @imports.
+# Jekyll sass/scss minification.
 sass:
-  # sass_dir:          _sass #defaults to <source>/_sass
-  style:            :compressed
+  style:            compressed
 
 toc:
   min_level:        2

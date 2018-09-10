@@ -6,4 +6,6 @@ group: aspnet
 toc: true
 ---
 
-sample page - 1
+<div class="example">
+	sample page - 1
+</div>

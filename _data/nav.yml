@@ -1,8 +1,8 @@
 - title: ASPNET
   pages:
     - title: Overview
-    - title: Continuous Integration vs. Continuous Delivery vs. Continuous Deployment
-    - title: Request throttling in .NET Core MVC
+    - title: Continuous Integration and Delivery
+    - title: Request Throttling in Net Core MVC and API
 - title: Foo
   pages:
     - title: Bar

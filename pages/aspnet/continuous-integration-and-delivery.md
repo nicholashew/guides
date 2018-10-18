@@ -5,8 +5,6 @@ description:
 group: aspnet
 ---
 
-## Continuous Integration vs. Continuous Delivery vs. Continuous Deployment
-
 - **Continuous Integration** is an automated process that integrates source code changes and merges all developer working copies into a shared mainline several times a day. The feedback loop is part of this process.
 - **Continuous Delivery** is an extended Continuous Integration process with additional steps, producing an installable outcome of the software or a delivery package (which can be a binary file, a zip archive or an installer executable). This process works if you don’t rely on automated tests and you need to control when software is shipped to production. 
 - **Continuous Deployment** is an extended Continuous Delivery process with additional steps automating deploying to staging and production.

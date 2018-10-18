@@ -1,8 +1,8 @@
 - title: ASPNET
   pages:
     - title: Overview
-    - title: Sample 1
-    - title: Sample 2
+    - title: Continuous Integration vs. Continuous Delivery vs. Continuous Deployment
+    - title: Request throttling in .NET Core MVC
 - title: Foo
   pages:
     - title: Bar

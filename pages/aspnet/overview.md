@@ -7,4 +7,4 @@ redirect_from: "/aspnet/"
 toc: true
 ---
 
-sample page - overview
+A collection of ASPNET / .NET core.
